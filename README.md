@@ -8,7 +8,13 @@ We’ve created a Publisher and Subscriber architecture that sends sensor data t
 After that we have developed the modern cross-platform Mobile application that can receive data from the firebase server also from the app users can send commands to the raspberry pi such as “turn the AC ON or OFF”, “TURN LIGHTS OFF or ON”, “LOCK DOORS”, “ACTIVE SECURITY ALARM”. The problem, however, was lack of actuators capable of adhering to these commands and updating our system.
 
 ## UI
-![UI images goes here](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![UI images goes here](https://github.com/lvlasuod/smart_home/blob/master/1.jpeg?raw=true)
+![UI images goes here](https://github.com/lvlasuod/smart_home/blob/master/2.jpeg?raw=true)
+![UI images goes here](https://github.com/lvlasuod/smart_home/blob/master/3.jpeg?raw=true)
+![UI images goes here](https://github.com/lvlasuod/smart_home/blob/master/4.jpeg?raw=true)
+![UI images goes here](https://github.com/lvlasuod/smart_home/blob/master/5.jpeg?raw=true)
+![UI images goes here](https://github.com/lvlasuod/smart_home/blob/master/6.jpeg?raw=true)
+![UI images goes here](https://github.com/lvlasuod/smart_home/blob/master/7.jpeg?raw=true)
 
 
 ##  Addressing LSEP Issues
