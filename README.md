@@ -22,5 +22,5 @@ After that we have developed the modern cross-platform Mobile application that c
 Smart home technology integration is on the rise, and it's typically intended to assist older people maintain their independence. However, it has the ability to limit their freedom and make them feel as though their privacy has been violated. The difficulty in finding a single definition that would apply to all circumstances, particularly in the case of smart home technologies, is based on legal interpretations of privacy. This is due to the fact that the perception of privacy invasion is more significant than the actuality of the situation. Residents may not comprehend what information is gathered, how it is used, or who has access to it, so senior housing providers should keep this in mind. Furthermore, some forms of technology are thought to be more intrusive than others. 
 
 
-This project is a dedicating to a IoT coursework for London Metropolitan University.
+This project is dedicating to a IoT coursework for London Metropolitan University.
 
